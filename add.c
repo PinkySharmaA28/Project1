@@ -2,7 +2,7 @@
 
 // C program to add two numbers 
 #include <stdio.h> 
-  
+  authoe pinky
 int main() 
 { 
     int A, B, sum = 0; 
